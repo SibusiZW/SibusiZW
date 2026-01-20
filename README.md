@@ -13,10 +13,10 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 </p>
 
 **Breakdown (for humans):**
-- **C# / .NET / VB.NET** – backend systems, desktop apps, structured pain
-- **Python / Django** – APIs, backend logic, rapid development
-- **JavaScript / React** – frontends that don’t feel like 2009
-- **PHP** – legacy, real-world survival skills
+- **C# / .NET / VB.NET** – backend systems, desktop apps, structured pain  
+- **Python / Django** – APIs, backend logic, rapid development  
+- **JavaScript / React** – frontends that don’t feel like 2009  
+- **PHP** – legacy, real-world survival skills  
 
 ---
 
@@ -35,5 +35,17 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/SibusiZW" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/tafadzwa-sibanda-6a1a2a369" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/tafadzwa_sibusi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 If it involves software, systems, or solving annoying problems with code — I’m interested.
