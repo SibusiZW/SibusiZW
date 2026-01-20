@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Tafadzwa
 
-<!--
-**SibusiZW/SibusiZW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer who enjoys building things that actually work — from backend systems to interactive web apps.  
+I like clean logic, predictable behavior, and code that doesn’t fight back at 2 a.m.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+### Languages & Frameworks I Work With
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,python,dotnet,react,django,php,js&theme=light" />
+</p>
+
+**Breakdown (for humans):**
+- **C# / .NET / VB.NET** – backend systems, desktop apps, structured pain
+- **Python / Django** – APIs, backend logic, rapid development
+- **JavaScript / React** – frontends that don’t feel like 2009
+- **PHP** – legacy, real-world survival skills
+
+---
+
+## 🧠 What I Care About
+- Writing code that’s readable *six months later*
+- Understanding how things work, not just that they work
+- Building practical systems for real users
+- Learning by breaking things (responsibly)
+
+---
+
+## 🚀 Current Focus
+- Full-stack web development  
+- API design and backend architecture  
+- Bridging clean backends with usable frontends  
+
+---
+
+## 📫 Let’s Connect
+If it involves software, systems, or solving annoying problems with code — I’m interested.
