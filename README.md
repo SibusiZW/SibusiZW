@@ -9,14 +9,13 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 
 ### Languages & Frameworks I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,dotnet,react,django,php,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cs,python,dotnet,react,django,js&theme=light" />
 </p>
 
 **Breakdown (for humans):**
 - **C# / .NET / VB.NET** – backend systems, desktop apps, structured pain  
 - **Python / Django** – APIs, backend logic, rapid development  
 - **JavaScript / React** – frontends that don’t feel like 2009  
-- **PHP** – legacy, real-world survival skills  
 
 ---
 
