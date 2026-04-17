@@ -7,15 +7,10 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 
 ## 🧰 Tech Stack
 
-### Languages & Frameworks I Work With
+### My Vast Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,dotnet,react,django,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,vscode,vscodium,python,vue,react,django,git,github,js&theme=light" />
 </p>
-
-**Breakdown (for humans):**
-- **C# / .NET / VB.NET** – backend systems, desktop apps, structured pain  
-- **Python / Django** – APIs, backend logic, rapid development  
-- **JavaScript / React** – frontends that don’t feel like 2009  
 
 ---
 
