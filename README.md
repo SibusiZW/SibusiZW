@@ -9,7 +9,7 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 
 ### My Vast Toolkit
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,nuxt,python,vue,react,django,git,github,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,python,vscode,react,django,git,github,js&theme=light" />
 </p>
 
 ---
