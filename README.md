@@ -14,6 +14,15 @@ I like clean logic, predictable behavior, and code that doesn’t fight back at 
 
 ---
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SibusiZW&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SibusiZW&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+---
+
 ## 🧠 What I Care About
 - Writing code that’s readable *six months later*
 - Understanding how things work, not just that they work
